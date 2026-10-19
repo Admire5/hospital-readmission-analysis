@@ -221,4 +221,5 @@ __marimo__/
 
 # Project data (download instructions are in the README)
 data/raw/
+data/processed/
 *.zip
